@@ -133,5 +133,5 @@ DATABASES = {
     }
 }
 
-
+STATIC_URL = '/static/'
 django_on_heroku.settings(locals()) # bottom of the file
